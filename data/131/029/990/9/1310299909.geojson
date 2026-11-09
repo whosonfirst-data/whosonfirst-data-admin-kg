@@ -51,7 +51,7 @@
         "wk:page":"Samat_%28village%29"
     },
     "wof:country":"KG",
-    "wof:geomhash":"7348da17f1ca54290ef76c935c44e8ac",
+    "wof:geomhash":"6e58ce2a411d5f2393e8830320f59267",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     69.50686999999999,
     39.90851
 ],
-  "geometry": {"coordinates":[69.50686999999999,39.90851],"type":"Point"}
+  "geometry": {"coordinates":[69.50687,39.90851],"type":"Point"}
 }

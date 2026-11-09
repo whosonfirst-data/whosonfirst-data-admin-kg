@@ -65,7 +65,7 @@
         "wk:page":"Ichke-Jergez"
     },
     "wof:country":"KG",
-    "wof:geomhash":"c02d7e8bcf1a1e09233625b8368dd2c7",
+    "wof:geomhash":"8e9629d933d2b6700b803eff681c4f87",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,5 +91,5 @@
     78.71188000000002,
     42.54339
 ],
-  "geometry": {"coordinates":[78.71188000000002,42.54339],"type":"Point"}
+  "geometry": {"coordinates":[78.71188,42.54339],"type":"Point"}
 }

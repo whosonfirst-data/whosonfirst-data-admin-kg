@@ -51,7 +51,7 @@
         "wk:page":"Kyzyl-Tala"
     },
     "wof:country":"KG",
-    "wof:geomhash":"feed89a1a71be7ffdc1bbca6d947bd5d",
+    "wof:geomhash":"d66d35a3d78e40272ea2beb4e44bb772",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     72.96396999999997,
     39.96545
 ],
-  "geometry": {"coordinates":[72.96396999999997,39.96545],"type":"Point"}
+  "geometry": {"coordinates":[72.96397,39.96545],"type":"Point"}
 }

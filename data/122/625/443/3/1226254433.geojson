@@ -44,7 +44,7 @@
         "wk:page":"Sarykamysh%2C_Jalal-Abad"
     },
     "wof:country":"KG",
-    "wof:geomhash":"58be74e1cdcb15ae95ed1bc2d28212e2",
+    "wof:geomhash":"ab9af05ca67b0bac3a7f990518d7402a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     72.64083000000002,
     41.70901
 ],
-  "geometry": {"coordinates":[72.64083000000002,41.70901],"type":"Point"}
+  "geometry": {"coordinates":[72.64083,41.70901],"type":"Point"}
 }

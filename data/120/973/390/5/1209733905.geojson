@@ -45,7 +45,7 @@
         "wk:page":"Shumkar"
     },
     "wof:country":"KG",
-    "wof:geomhash":"4934e674d3cd7f1cd42c3ead4b1f8499",
+    "wof:geomhash":"515c0b672e813e3aeb2729b5c6bbdec2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     73.26666999999998,
     39.83333
 ],
-  "geometry": {"coordinates":[73.26666999999998,39.83333],"type":"Point"}
+  "geometry": {"coordinates":[73.26667,39.83333],"type":"Point"}
 }

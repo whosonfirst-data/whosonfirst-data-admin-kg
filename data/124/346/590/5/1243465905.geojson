@@ -51,7 +51,7 @@
         "wk:page":"Beshbadam"
     },
     "wof:country":"KG",
-    "wof:geomhash":"7af08c3de67e38783ea16c525e0df2b8",
+    "wof:geomhash":"bf59e6c64db54878b3a669d5dcfc6b4c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     72.88859000000002,
     41.14069
 ],
-  "geometry": {"coordinates":[72.88859000000002,41.14069],"type":"Point"}
+  "geometry": {"coordinates":[72.88859,41.14069],"type":"Point"}
 }

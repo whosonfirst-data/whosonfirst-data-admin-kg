@@ -400,7 +400,7 @@
     },
     "wof:country":"KG",
     "wof:created":1459008785,
-    "wof:geomhash":"7b818674f4e3b7c6b44642b1b303ca85",
+    "wof:geomhash":"91d9c8dcbde1327c62048751c6da7b03",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -428,5 +428,5 @@
     73.0,
     40.93333
 ],
-  "geometry": {"coordinates":[73.0,40.93333],"type":"Point"}
+  "geometry": {"coordinates":[73,40.93333],"type":"Point"}
 }

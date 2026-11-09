@@ -54,7 +54,7 @@
         "wk:page":"Unkur"
     },
     "wof:country":"KG",
-    "wof:geomhash":"587b25f41bec4147a7fa7b66dea950d0",
+    "wof:geomhash":"027deeef5e84d1941a0bd78fa52af40b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     73.28726999999998,
     40.50223
 ],
-  "geometry": {"coordinates":[73.28726999999998,40.50223],"type":"Point"}
+  "geometry": {"coordinates":[73.28727,40.50223],"type":"Point"}
 }

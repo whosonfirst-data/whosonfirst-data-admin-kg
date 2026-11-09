@@ -65,7 +65,7 @@
         "wk:page":"Bosteri"
     },
     "wof:country":"KG",
-    "wof:geomhash":"79ce637b5f46a287ac64f89a975156fb",
+    "wof:geomhash":"91e70bbd223252c0c40f86b28e7fe4c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,5 +91,5 @@
     77.18590999999998,
     42.65953
 ],
-  "geometry": {"coordinates":[77.18590999999998,42.65953],"type":"Point"}
+  "geometry": {"coordinates":[77.18591,42.65953],"type":"Point"}
 }

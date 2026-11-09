@@ -57,7 +57,7 @@
         "wk:page":"Koshkol%27"
     },
     "wof:country":"KG",
-    "wof:geomhash":"c02528a3d443da2cb93dcc50583e1405",
+    "wof:geomhash":"15bb8d409728978b15c63d75cc1fe2e3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     76.61388000000002,
     42.54047
 ],
-  "geometry": {"coordinates":[76.61388000000002,42.54047],"type":"Point"}
+  "geometry": {"coordinates":[76.61388,42.54047],"type":"Point"}
 }

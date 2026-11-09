@@ -48,7 +48,7 @@
         "wk:page":"Kulanak"
     },
     "wof:country":"KG",
-    "wof:geomhash":"c1e16d86a04061f045a96c6bdae2fec6",
+    "wof:geomhash":"372f5fb1f7cc651eb78342d8a8a14bbf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     75.50605999999998,
     41.36237
 ],
-  "geometry": {"coordinates":[75.50605999999998,41.36237],"type":"Point"}
+  "geometry": {"coordinates":[75.50606,41.36237],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Dodan"
     },
     "wof:country":"KG",
-    "wof:geomhash":"daa5e78016822eb1857263be70f88bd0",
+    "wof:geomhash":"83cebd62d8b99e2f727ff9a4eb55aba0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     72.27356999999998,
     40.31800000000001
 ],
-  "geometry": {"coordinates":[72.27356999999998,40.31800000000001],"type":"Point"}
+  "geometry": {"coordinates":[72.27357,40.318],"type":"Point"}
 }

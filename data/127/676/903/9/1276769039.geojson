@@ -57,7 +57,7 @@
         "wk:page":"Karasaz"
     },
     "wof:country":"KG",
-    "wof:geomhash":"4ecce9f80f6646c4038b03dcbd25b6dc",
+    "wof:geomhash":"f961ba7f0118631d08ad409b671abbb8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     75.88573000000002,
     42.19935
 ],
-  "geometry": {"coordinates":[75.88573000000002,42.19935],"type":"Point"}
+  "geometry": {"coordinates":[75.88573,42.19935],"type":"Point"}
 }

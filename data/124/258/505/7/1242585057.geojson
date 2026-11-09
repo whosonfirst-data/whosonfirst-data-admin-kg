@@ -51,7 +51,7 @@
         "wk:page":"Uluk"
     },
     "wof:country":"KG",
-    "wof:geomhash":"c644d85abd79d677f67fa54afe2bbf49",
+    "wof:geomhash":"b537b6a132f9cb25499e073289158271",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     71.82778,
     41.42019000000001
 ],
-  "geometry": {"coordinates":[71.82778,41.42019000000001],"type":"Point"}
+  "geometry": {"coordinates":[71.82778,41.42019],"type":"Point"}
 }

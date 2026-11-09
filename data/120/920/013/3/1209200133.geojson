@@ -48,7 +48,7 @@
         "wk:page":"Kekbel%27"
     },
     "wof:country":"KG",
-    "wof:geomhash":"0a4c7bf414baa1daaaa709d7c8c615e9",
+    "wof:geomhash":"ae3ae6fd213cf5c7205c285609230c58",
     "wof:hierarchy":[
         {
             "country_id":85632761,
@@ -71,5 +71,5 @@
     72.92291999999998,
     40.26294
 ],
-  "geometry": {"coordinates":[72.92291999999998,40.26294],"type":"Point"}
+  "geometry": {"coordinates":[72.92292,40.26294],"type":"Point"}
 }

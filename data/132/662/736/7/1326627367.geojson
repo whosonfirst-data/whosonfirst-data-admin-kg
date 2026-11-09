@@ -54,7 +54,7 @@
         "wk:page":"Sugut"
     },
     "wof:country":"KG",
-    "wof:geomhash":"7ae7f175df383b3db90f463d1b878fe3",
+    "wof:geomhash":"469cf99628ee813d05de1afb5c10a7ce",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     73.49004000000002,
     39.97041
 ],
-  "geometry": {"coordinates":[73.49004000000002,39.97041],"type":"Point"}
+  "geometry": {"coordinates":[73.49004,39.97041],"type":"Point"}
 }

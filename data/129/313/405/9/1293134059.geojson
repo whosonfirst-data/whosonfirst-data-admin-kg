@@ -57,7 +57,7 @@
         "wk:page":"Kyzyl-Asker"
     },
     "wof:country":"KG",
-    "wof:geomhash":"4b09d55e1dcf9a9799679d7026adbac1",
+    "wof:geomhash":"63c5a1440118883a17fd183cb4eadeb1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     75.65706999999998,
     41.38579
 ],
-  "geometry": {"coordinates":[75.65706999999998,41.38579],"type":"Point"}
+  "geometry": {"coordinates":[75.65707,41.38579],"type":"Point"}
 }

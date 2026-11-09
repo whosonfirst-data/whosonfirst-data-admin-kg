@@ -54,7 +54,7 @@
         "wk:page":"Shoro"
     },
     "wof:country":"KG",
-    "wof:geomhash":"7cafd42e1e9adda815f462c552407fcc",
+    "wof:geomhash":"f93d2567ca7107c0ef9d11c847d25a3d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     75.44400999999998,
     41.44911
 ],
-  "geometry": {"coordinates":[75.44400999999998,41.44911],"type":"Point"}
+  "geometry": {"coordinates":[75.44401,41.44911],"type":"Point"}
 }

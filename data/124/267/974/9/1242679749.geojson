@@ -48,7 +48,7 @@
         "wk:page":"Akdzhar"
     },
     "wof:country":"KG",
-    "wof:geomhash":"9c829dfd58cc442a1194fa10cf4287e8",
+    "wof:geomhash":"6f240f8fe7cc9fe20f07f76edcfedf99",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     73.37805999999998,
     41.62238
 ],
-  "geometry": {"coordinates":[73.37805999999998,41.62238],"type":"Point"}
+  "geometry": {"coordinates":[73.37806,41.62238],"type":"Point"}
 }

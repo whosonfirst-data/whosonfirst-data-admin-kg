@@ -42,7 +42,7 @@
         "wk:page":"Toguz-Bulak"
     },
     "wof:country":"KG",
-    "wof:geomhash":"a6d413e0271a9d2890cd52ace6bebf30",
+    "wof:geomhash":"a0b0f45eda5bc8a244e45a2e42ebf6fa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     75.76666999999998,
     42.18333
 ],
-  "geometry": {"coordinates":[75.76666999999998,42.18333],"type":"Point"}
+  "geometry": {"coordinates":[75.76667,42.18333],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Kashat"
     },
     "wof:country":"KG",
-    "wof:geomhash":"23ff9c7f8ed5908812b5dca7657920f2",
+    "wof:geomhash":"2da7534b24de06d1b323f254aae709db",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     75.44818000000002,
     42.30995
 ],
-  "geometry": {"coordinates":[75.44818000000002,42.30995],"type":"Point"}
+  "geometry": {"coordinates":[75.44818,42.30995],"type":"Point"}
 }

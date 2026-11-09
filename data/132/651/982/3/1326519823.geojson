@@ -55,7 +55,7 @@
         "wk:page":"Kal%27tak"
     },
     "wof:country":"KG",
-    "wof:geomhash":"4f8e7bfe28bce15f69eccfc8c9ac1fb2",
+    "wof:geomhash":"2e186cc7969a9a03af0f99f41923cb4e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     71.45038000000002,
     40.13403
 ],
-  "geometry": {"coordinates":[71.45038000000002,40.13403],"type":"Point"}
+  "geometry": {"coordinates":[71.45038,40.13403],"type":"Point"}
 }

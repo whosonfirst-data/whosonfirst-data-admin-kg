@@ -50,7 +50,7 @@
         "wk:page":"Taldok"
     },
     "wof:country":"KG",
-    "wof:geomhash":"7ffe20bfd86bae865fa0c44730f88a3d",
+    "wof:geomhash":"6917c906afa7ba7aae5c06751bd065e8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     73.24481999999998,
     40.30152
 ],
-  "geometry": {"coordinates":[73.24481999999998,40.30152],"type":"Point"}
+  "geometry": {"coordinates":[73.24482,40.30152],"type":"Point"}
 }

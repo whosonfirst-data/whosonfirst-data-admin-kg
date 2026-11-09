@@ -47,7 +47,7 @@
         "wk:page":"Ketmen%27tebe"
     },
     "wof:country":"KG",
-    "wof:geomhash":"cd9a0c3425158f35bb61778705695964",
+    "wof:geomhash":"d2fa3d793a5ff85d272c2fe5888443c6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     72.80889,
     41.80139000000001
 ],
-  "geometry": {"coordinates":[72.80889000000001,41.80139000000001],"type":"Point"}
+  "geometry": {"coordinates":[72.80889,41.80139],"type":"Point"}
 }

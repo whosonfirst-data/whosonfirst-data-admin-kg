@@ -52,7 +52,7 @@
         "wk:page":"Kurpsay"
     },
     "wof:country":"KG",
-    "wof:geomhash":"9c4e1ad53ccd39b8a33828437594c193",
+    "wof:geomhash":"2a9d31e7cd2a356ddd6dfe6655bc7c4a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     72.33854000000002,
     41.48669
 ],
-  "geometry": {"coordinates":[72.33854000000002,41.48669],"type":"Point"}
+  "geometry": {"coordinates":[72.33854,41.48669],"type":"Point"}
 }

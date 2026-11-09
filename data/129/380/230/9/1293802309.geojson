@@ -48,7 +48,7 @@
         "wk:page":"Koshbulak"
     },
     "wof:country":"KG",
-    "wof:geomhash":"29128a416e2b9acce9c149b173d08962",
+    "wof:geomhash":"df3279093eb0f225c427a5596c254178",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     73.5853,
     40.81809000000001
 ],
-  "geometry": {"coordinates":[73.5853,40.81809000000001],"type":"Point"}
+  "geometry": {"coordinates":[73.5853,40.81809],"type":"Point"}
 }

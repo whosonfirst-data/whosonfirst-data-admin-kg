@@ -55,7 +55,7 @@
         "wk:page":"Ylay-Talaa"
     },
     "wof:country":"KG",
-    "wof:geomhash":"10166591cfa0da2dcd04d990c8b5bfdc",
+    "wof:geomhash":"188b76e54f62b9585ca2455223bf9432",
     "wof:hierarchy":[
         {
             "country_id":85632761,
@@ -78,5 +78,5 @@
     73.59751999999997,
     40.59029
 ],
-  "geometry": {"coordinates":[73.59751999999997,40.59029],"type":"Point"}
+  "geometry": {"coordinates":[73.59752,40.59029],"type":"Point"}
 }

@@ -66,7 +66,7 @@
         "wk:page":"Novovoznesenovka"
     },
     "wof:country":"KG",
-    "wof:geomhash":"9eab4876597988a8bc479e2d2b6699a0",
+    "wof:geomhash":"b173d3278fee841d24424e240c058ee0",
     "wof:hierarchy":[
         {
             "country_id":85632761,
@@ -89,5 +89,5 @@
     78.74620999999998,
     42.58707
 ],
-  "geometry": {"coordinates":[78.74620999999998,42.58707],"type":"Point"}
+  "geometry": {"coordinates":[78.74621,42.58707],"type":"Point"}
 }

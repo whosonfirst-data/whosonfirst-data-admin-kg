@@ -51,7 +51,7 @@
         "wk:page":"Kutarma"
     },
     "wof:country":"KG",
-    "wof:geomhash":"1f12baf043727b263f81adae063199ba",
+    "wof:geomhash":"3d7248ef5a4860f3cbd7f7ff9b905738",
     "wof:hierarchy":[
         {
             "country_id":85632761,
@@ -74,5 +74,5 @@
     74.25171999999998,
     42.90444
 ],
-  "geometry": {"coordinates":[74.25171999999998,42.90444],"type":"Point"}
+  "geometry": {"coordinates":[74.25172,42.90444],"type":"Point"}
 }

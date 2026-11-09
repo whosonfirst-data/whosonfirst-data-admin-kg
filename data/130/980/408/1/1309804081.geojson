@@ -59,7 +59,7 @@
         "wk:page":"Tash-Bashat%2C_Naryn"
     },
     "wof:country":"KG",
-    "wof:geomhash":"5e07b59a4ac24f18ea72edddc47b202b",
+    "wof:geomhash":"5e4bc86df3160d9fbd232342a2f8e3df",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,5 +85,5 @@
     76.39334000000002,
     41.46378
 ],
-  "geometry": {"coordinates":[76.39334000000002,41.46378],"type":"Point"}
+  "geometry": {"coordinates":[76.39334,41.46378],"type":"Point"}
 }

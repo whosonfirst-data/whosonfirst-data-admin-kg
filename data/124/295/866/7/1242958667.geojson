@@ -51,7 +51,7 @@
         "wk:page":"Dzharbashi"
     },
     "wof:country":"KG",
-    "wof:geomhash":"b9af7efd8f80cbdc7489cd376d2f6b8b",
+    "wof:geomhash":"7cc21c5f8e22c327e35679eec4091d0f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     72.11693000000002,
     39.51468
 ],
-  "geometry": {"coordinates":[72.11693000000002,39.51468],"type":"Point"}
+  "geometry": {"coordinates":[72.11693,39.51468],"type":"Point"}
 }

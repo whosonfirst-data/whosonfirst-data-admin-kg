@@ -48,7 +48,7 @@
         "wk:page":"Urnok"
     },
     "wof:country":"KG",
-    "wof:geomhash":"8f32db9b7a3653092a315bbda9f002c7",
+    "wof:geomhash":"b913c3be4c8a91444883c59ca234bd51",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     72.73637,
     41.90819000000001
 ],
-  "geometry": {"coordinates":[72.73636999999999,41.90819000000001],"type":"Point"}
+  "geometry": {"coordinates":[72.73637,41.90819],"type":"Point"}
 }

@@ -52,7 +52,7 @@
         "wk:page":"Karagayna"
     },
     "wof:country":"KG",
-    "wof:geomhash":"fd041f12f15006bb3bcefed388d0d43b",
+    "wof:geomhash":"e6d3c146a8ab0dfbb17e7eed79453ea3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     72.08769000000002,
     42.34779
 ],
-  "geometry": {"coordinates":[72.08769000000002,42.34779],"type":"Point"}
+  "geometry": {"coordinates":[72.08769,42.34779],"type":"Point"}
 }

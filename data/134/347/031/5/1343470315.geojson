@@ -48,7 +48,7 @@
         "wk:page":"Tash-Bulak%2C_Jalal-Abad"
     },
     "wof:country":"KG",
-    "wof:geomhash":"a2e0baa1b24391188930b1c2485a08e6",
+    "wof:geomhash":"fecc7b4907e8762376c09f7da7ee853a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     73.02096999999998,
     40.95611
 ],
-  "geometry": {"coordinates":[73.02096999999998,40.95611],"type":"Point"}
+  "geometry": {"coordinates":[73.02097,40.95611],"type":"Point"}
 }

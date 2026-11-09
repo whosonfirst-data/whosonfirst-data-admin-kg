@@ -48,7 +48,7 @@
         "wk:page":"Imeni_Chapayeva"
     },
     "wof:country":"KG",
-    "wof:geomhash":"5a585e20b8e4fc7c0234bc6b653b987e",
+    "wof:geomhash":"df0769ac75162b2644f96b0012bc43ba",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     72.63826999999998,
     40.27734
 ],
-  "geometry": {"coordinates":[72.63826999999998,40.27734],"type":"Point"}
+  "geometry": {"coordinates":[72.63827,40.27734],"type":"Point"}
 }

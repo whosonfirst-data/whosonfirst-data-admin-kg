@@ -52,7 +52,7 @@
         "wk:page":"Yanabadam"
     },
     "wof:country":"KG",
-    "wof:geomhash":"76a9804952f000c7df91c75dc0786336",
+    "wof:geomhash":"54958f22773ded0f79dd39ec21b97be6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     72.79288000000003,
     41.11251
 ],
-  "geometry": {"coordinates":[72.79288000000003,41.11251],"type":"Point"}
+  "geometry": {"coordinates":[72.79288,41.11251],"type":"Point"}
 }

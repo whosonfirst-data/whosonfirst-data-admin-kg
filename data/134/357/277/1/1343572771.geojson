@@ -51,7 +51,7 @@
         "wk:page":"Yerish"
     },
     "wof:country":"KG",
-    "wof:geomhash":"c845b46eafd3e225409e43a431b0555a",
+    "wof:geomhash":"c1830d35275b57929ef1639d468dbec8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     72.36707,
     41.41999000000001
 ],
-  "geometry": {"coordinates":[72.36707,41.41999000000001],"type":"Point"}
+  "geometry": {"coordinates":[72.36707,41.41999],"type":"Point"}
 }

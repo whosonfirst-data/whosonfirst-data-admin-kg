@@ -48,7 +48,7 @@
         "wk:page":"Karabulun"
     },
     "wof:country":"KG",
-    "wof:geomhash":"7130c56616c34299253ac2fd7706a4b7",
+    "wof:geomhash":"1371238f6f177bbf5f06ed8aaa50e61a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     75.29791999999998,
     42.24652
 ],
-  "geometry": {"coordinates":[75.29791999999998,42.24652],"type":"Point"}
+  "geometry": {"coordinates":[75.29792,42.24652],"type":"Point"}
 }

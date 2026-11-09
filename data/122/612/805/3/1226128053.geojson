@@ -51,7 +51,7 @@
         "wk:page":"Mirza-Aki"
     },
     "wof:country":"KG",
-    "wof:geomhash":"afa1a760c3dab08991a6915e6e550a1d",
+    "wof:geomhash":"baa41ca1364e564a60f0c856a710efe7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     73.41526999999998,
     40.75294
 ],
-  "geometry": {"coordinates":[73.41526999999998,40.75294],"type":"Point"}
+  "geometry": {"coordinates":[73.41527,40.75294],"type":"Point"}
 }

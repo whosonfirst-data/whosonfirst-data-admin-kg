@@ -55,7 +55,7 @@
         "wk:page":"Chongaryk"
     },
     "wof:country":"KG",
-    "wof:geomhash":"63167ba54481cd38812539d6a5877ce1",
+    "wof:geomhash":"e9b9ec52f8742c38e6c7ad97af2c2c30",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     72.64415,
     41.89024000000001
 ],
-  "geometry": {"coordinates":[72.64415,41.89024000000001],"type":"Point"}
+  "geometry": {"coordinates":[72.64415,41.89024],"type":"Point"}
 }

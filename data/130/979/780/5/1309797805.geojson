@@ -53,7 +53,7 @@
         "wk:page":"Toguzbay"
     },
     "wof:country":"KG",
-    "wof:geomhash":"5e9e75e978b1be6d72d736626501e438",
+    "wof:geomhash":"42168fbfd1ec6fb45545e55fbe45ccc3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     78.62100000000002,
     42.71979
 ],
-  "geometry": {"coordinates":[78.62100000000002,42.71979],"type":"Point"}
+  "geometry": {"coordinates":[78.621,42.71979],"type":"Point"}
 }

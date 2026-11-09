@@ -61,7 +61,7 @@
         "wk:page":"Koshbulak,_Sulukta"
     },
     "wof:country":"KG",
-    "wof:geomhash":"a8c68021821f814ac6076d8aa1cc52bd",
+    "wof:geomhash":"4f93cfb0e9197ab29f00aa6a89994d02",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     69.64860999999999,
     39.92224
 ],
-  "geometry": {"coordinates":[69.64860999999999,39.92224],"type":"Point"}
+  "geometry": {"coordinates":[69.64861,39.92224],"type":"Point"}
 }

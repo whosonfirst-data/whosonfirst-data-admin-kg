@@ -57,7 +57,7 @@
         "wk:page":"Shamaldy-Say"
     },
     "wof:country":"KG",
-    "wof:geomhash":"026544388e7b8ec110c79d04fb2533f2",
+    "wof:geomhash":"86736117ae824ff5e9965748ca5b788c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     72.17886999999997,
     41.2006
 ],
-  "geometry": {"coordinates":[72.17886999999997,41.2006],"type":"Point"}
+  "geometry": {"coordinates":[72.17887,41.2006],"type":"Point"}
 }

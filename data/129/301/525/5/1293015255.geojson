@@ -38,7 +38,7 @@
         "wk:page":"Izym-Bay"
     },
     "wof:country":"KG",
-    "wof:geomhash":"b5a9e5aae462ba7c17f778e658903206",
+    "wof:geomhash":"b13183027aeb40277ff0bda7dbc672a1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,5 +64,5 @@
     73.76666999999998,
     40.9
 ],
-  "geometry": {"coordinates":[73.76666999999998,40.9],"type":"Point"}
+  "geometry": {"coordinates":[73.76667,40.9],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Kopurbashi"
     },
     "wof:country":"KG",
-    "wof:geomhash":"c5b8f0d7e928d5a9494989274af41c8e",
+    "wof:geomhash":"f38da9ab5400fb5b52a6d57deb5b98b0",
     "wof:hierarchy":[
         {
             "country_id":85632761,
@@ -65,5 +65,5 @@
     72.61733000000002,
     40.34275
 ],
-  "geometry": {"coordinates":[72.61733000000002,40.34275],"type":"Point"}
+  "geometry": {"coordinates":[72.61733,40.34275],"type":"Point"}
 }

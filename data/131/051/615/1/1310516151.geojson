@@ -49,7 +49,7 @@
         "wk:page":"Maat-Murat"
     },
     "wof:country":"KG",
-    "wof:geomhash":"cdace97bff5e8b780f50c7f36baba4b5",
+    "wof:geomhash":"10cca7246313a71184cb35f23a4765d4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     69.73333000000001,
     39.85
 ],
-  "geometry": {"coordinates":[69.73333000000001,39.85],"type":"Point"}
+  "geometry": {"coordinates":[69.73333,39.85],"type":"Point"}
 }

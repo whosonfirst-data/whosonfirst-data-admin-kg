@@ -51,7 +51,7 @@
         "wk:page":"Kulat"
     },
     "wof:country":"KG",
-    "wof:geomhash":"da98cb8f93c74f059935d722fbe68530",
+    "wof:geomhash":"f1dd5b165fe5255ac1b6a740df7fc0be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     72.7774,
     40.98327000000001
 ],
-  "geometry": {"coordinates":[72.7774,40.98327000000001],"type":"Point"}
+  "geometry": {"coordinates":[72.7774,40.98327],"type":"Point"}
 }

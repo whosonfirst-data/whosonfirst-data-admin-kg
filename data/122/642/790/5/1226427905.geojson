@@ -54,7 +54,7 @@
         "wk:page":"Kanduga"
     },
     "wof:country":"KG",
-    "wof:geomhash":"c8b033383d8b2d2ff69d4b5f55d668de",
+    "wof:geomhash":"36c523eb13c86c1b34393b9c801dddb4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     73.53416999999997,
     40.704
 ],
-  "geometry": {"coordinates":[73.53416999999997,40.704],"type":"Point"}
+  "geometry": {"coordinates":[73.53417,40.704],"type":"Point"}
 }

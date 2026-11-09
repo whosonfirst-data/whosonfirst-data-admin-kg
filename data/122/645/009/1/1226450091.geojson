@@ -104,7 +104,7 @@
         "wk:page":"Kerben%2C_Kyrgyzstan"
     },
     "wof:country":"KG",
-    "wof:geomhash":"5ac10c71ef9df79ec483f8ecc6f6ebc0",
+    "wof:geomhash":"bcae5fbb77947540fbd8cc8e67e81c84",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,5 +132,5 @@
     71.75825999999998,
     41.49399
 ],
-  "geometry": {"coordinates":[71.75825999999998,41.49399],"type":"Point"}
+  "geometry": {"coordinates":[71.75826,41.49399],"type":"Point"}
 }

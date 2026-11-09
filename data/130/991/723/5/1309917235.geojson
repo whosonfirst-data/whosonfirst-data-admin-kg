@@ -48,7 +48,7 @@
         "wk:page":"Bereynok"
     },
     "wof:country":"KG",
-    "wof:geomhash":"8d06aec643953c6b6126f40fd77e842f",
+    "wof:geomhash":"ebabe6e57d1132dceecca488521b85f6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     72.18784000000002,
     41.97432
 ],
-  "geometry": {"coordinates":[72.18784000000002,41.97432],"type":"Point"}
+  "geometry": {"coordinates":[72.18784,41.97432],"type":"Point"}
 }

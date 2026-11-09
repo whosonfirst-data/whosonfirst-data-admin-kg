@@ -54,7 +54,7 @@
         "wk:page":"Kara-Tyube"
     },
     "wof:country":"KG",
-    "wof:geomhash":"43fa70f3ea4198faf12da0037ae3d5cd",
+    "wof:geomhash":"62c4f43294243df1b5b7db9eff2b2c78",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     72.72979000000002,
     41.05029
 ],
-  "geometry": {"coordinates":[72.72979000000002,41.05029],"type":"Point"}
+  "geometry": {"coordinates":[72.72979,41.05029],"type":"Point"}
 }

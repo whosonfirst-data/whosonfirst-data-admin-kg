@@ -78,7 +78,7 @@
         "wk:page":"Belovodskoye"
     },
     "wof:country":"KG",
-    "wof:geomhash":"6b12db9f88e8316b471f2a3b6ab125dd",
+    "wof:geomhash":"08d4737e73438f1af6ee957b961fdf7d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,5 +104,5 @@
     74.1083,
     42.82944000000001
 ],
-  "geometry": {"coordinates":[74.1083,42.82944000000001],"type":"Point"}
+  "geometry": {"coordinates":[74.1083,42.82944],"type":"Point"}
 }

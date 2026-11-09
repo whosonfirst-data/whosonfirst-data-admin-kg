@@ -48,7 +48,7 @@
         "wk:page":"Ak-Dzhol"
     },
     "wof:country":"KG",
-    "wof:geomhash":"66f91bc345819fb8def225f380875067",
+    "wof:geomhash":"b5a92451c22e9e57e403d1d58f226a7c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     74.48935999999998,
     42.94133
 ],
-  "geometry": {"coordinates":[74.48935999999998,42.94133],"type":"Point"}
+  "geometry": {"coordinates":[74.48936,42.94133],"type":"Point"}
 }

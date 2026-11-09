@@ -72,7 +72,7 @@
         "wk:page":"Kazarman"
     },
     "wof:country":"KG",
-    "wof:geomhash":"c554e27fcc90eaf2f154d200a32c4f94",
+    "wof:geomhash":"ca79caae77afe11a1a1f6ce5549dcec8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,5 +98,5 @@
     74.02828000000002,
     41.40452
 ],
-  "geometry": {"coordinates":[74.02828000000002,41.40452],"type":"Point"}
+  "geometry": {"coordinates":[74.02828,41.40452],"type":"Point"}
 }

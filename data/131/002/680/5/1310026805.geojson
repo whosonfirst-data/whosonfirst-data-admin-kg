@@ -53,7 +53,7 @@
         "wk:page":"Kurmenty"
     },
     "wof:country":"KG",
-    "wof:geomhash":"bb3483cd42823d0183e9c713641e91b4",
+    "wof:geomhash":"bee1a2527f07454bb62581e2272ba0b2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     78.24736999999998,
     42.79182
 ],
-  "geometry": {"coordinates":[78.24736999999998,42.79182],"type":"Point"}
+  "geometry": {"coordinates":[78.24737,42.79182],"type":"Point"}
 }

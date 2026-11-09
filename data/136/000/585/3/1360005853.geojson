@@ -52,7 +52,7 @@
         "wk:page":"Yar-Kurgan"
     },
     "wof:country":"KG",
-    "wof:geomhash":"dbef308f8b9591d0310e191e4e3ab0ed",
+    "wof:geomhash":"4564f4b71ce4d4c53b2d741c5e50ab88",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     72.80644000000002,
     40.24021
 ],
-  "geometry": {"coordinates":[72.80644000000002,40.24021],"type":"Point"}
+  "geometry": {"coordinates":[72.80644,40.24021],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Lyangar"
     },
     "wof:country":"KG",
-    "wof:geomhash":"448c9292c4d9ab4487a8ec1ec21feaf4",
+    "wof:geomhash":"03dd4424d711c69242205fbd531a5a93",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     72.10195999999998,
     39.79692
 ],
-  "geometry": {"coordinates":[72.10195999999998,39.79692],"type":"Point"}
+  "geometry": {"coordinates":[72.10196,39.79692],"type":"Point"}
 }

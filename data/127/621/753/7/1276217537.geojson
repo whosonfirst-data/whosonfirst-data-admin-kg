@@ -54,7 +54,7 @@
         "wk:page":"Savay"
     },
     "wof:country":"KG",
-    "wof:geomhash":"f6a497f7336e30f4a79cdf4da9c9cd5f",
+    "wof:geomhash":"437f9b2584f4c9c2171b65400534ef2b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     72.97861999999998,
     40.747
 ],
-  "geometry": {"coordinates":[72.97861999999998,40.747],"type":"Point"}
+  "geometry": {"coordinates":[72.97862,40.747],"type":"Point"}
 }

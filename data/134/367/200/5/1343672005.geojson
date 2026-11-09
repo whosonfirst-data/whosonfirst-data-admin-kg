@@ -45,7 +45,7 @@
         "wk:page":"Solu-Sassyk"
     },
     "wof:country":"KG",
-    "wof:geomhash":"95496080a3cae9253f6b3c61f34cbef0",
+    "wof:geomhash":"d9b16fb805a42fd91e8df57fc823fe27",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     73.59380999999998,
     40.71457
 ],
-  "geometry": {"coordinates":[73.59380999999998,40.71457],"type":"Point"}
+  "geometry": {"coordinates":[73.59381,40.71457],"type":"Point"}
 }

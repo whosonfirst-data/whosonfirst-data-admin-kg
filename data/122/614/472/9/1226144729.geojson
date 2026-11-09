@@ -51,7 +51,7 @@
         "wk:page":"Aktam"
     },
     "wof:country":"KG",
-    "wof:geomhash":"b37c2f4b0e0c76cc80619e13c4623259",
+    "wof:geomhash":"04e1273c1787f8bac70f7086df03d3af",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     71.09971999999998,
     41.47935
 ],
-  "geometry": {"coordinates":[71.09971999999998,41.47935],"type":"Point"}
+  "geometry": {"coordinates":[71.09972,41.47935],"type":"Point"}
 }

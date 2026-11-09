@@ -68,7 +68,7 @@
         "wk:page":"Pristan%27-Przheval%27sk"
     },
     "wof:country":"KG",
-    "wof:geomhash":"e1dfd9831139dfba9252134d311e86e3",
+    "wof:geomhash":"895918145869db59b751bca7038fcd93",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,5 +94,5 @@
     78.31029000000002,
     42.57382
 ],
-  "geometry": {"coordinates":[78.31029000000002,42.57382],"type":"Point"}
+  "geometry": {"coordinates":[78.31029,42.57382],"type":"Point"}
 }

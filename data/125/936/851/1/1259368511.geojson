@@ -58,7 +58,7 @@
         "wk:page":"Chalkayudy"
     },
     "wof:country":"KG",
-    "wof:geomhash":"0a817e158752ce81a2617d5f758f7a25",
+    "wof:geomhash":"c71ec4d76929d1db49cff9f712fb13c4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,5 +84,5 @@
     73.65886,
     40.74124000000001
 ],
-  "geometry": {"coordinates":[73.65886,40.74124000000001],"type":"Point"}
+  "geometry": {"coordinates":[73.65886,40.74124],"type":"Point"}
 }

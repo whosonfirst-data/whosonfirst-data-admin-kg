@@ -48,7 +48,7 @@
         "wk:page":"Shamalterek"
     },
     "wof:country":"KG",
-    "wof:geomhash":"80f4d8bb6eec251a471cb8bc052149d4",
+    "wof:geomhash":"c53970ad21f049d3888be111650ed0b4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     73.57611999999997,
     40.79444
 ],
-  "geometry": {"coordinates":[73.57611999999997,40.79444],"type":"Point"}
+  "geometry": {"coordinates":[73.57612,40.79444],"type":"Point"}
 }

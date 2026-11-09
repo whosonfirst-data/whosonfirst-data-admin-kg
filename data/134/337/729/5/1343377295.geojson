@@ -51,7 +51,7 @@
         "wk:page":"Almalu"
     },
     "wof:country":"KG",
-    "wof:geomhash":"bca94022c8cfed30b91029d7238c185f",
+    "wof:geomhash":"f3df4b3df16ca6b5ca984c6880cc1f62",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     73.51666999999998,
     41.93333
 ],
-  "geometry": {"coordinates":[73.51666999999998,41.93333],"type":"Point"}
+  "geometry": {"coordinates":[73.51667,41.93333],"type":"Point"}
 }

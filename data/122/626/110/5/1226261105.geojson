@@ -45,7 +45,7 @@
         "wk:page":"Klozin"
     },
     "wof:country":"KG",
-    "wof:geomhash":"b31f144d54af5dcece286fcf7b028b85",
+    "wof:geomhash":"cb0b16585d538e31357fd215218da512",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     73.62973000000002,
     40.47343
 ],
-  "geometry": {"coordinates":[73.62973000000002,40.47343],"type":"Point"}
+  "geometry": {"coordinates":[73.62973,40.47343],"type":"Point"}
 }

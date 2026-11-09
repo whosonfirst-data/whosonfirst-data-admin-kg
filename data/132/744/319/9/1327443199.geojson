@@ -53,7 +53,7 @@
         "wk:page":"K%C3%B6k-Yangak"
     },
     "wof:country":"KG",
-    "wof:geomhash":"87683b7e14cd041e71fe64ce152dca9f",
+    "wof:geomhash":"f7993d1bb905f2193282b1003d87cc3e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     73.19613000000003,
     41.03026
 ],
-  "geometry": {"coordinates":[73.19613000000003,41.03026],"type":"Point"}
+  "geometry": {"coordinates":[73.19613,41.03026],"type":"Point"}
 }

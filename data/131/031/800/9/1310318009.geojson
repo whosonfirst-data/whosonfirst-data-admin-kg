@@ -52,7 +52,7 @@
         "wk:page":"Belyy_Piket"
     },
     "wof:country":"KG",
-    "wof:geomhash":"76ff303e08776d3b01d477c07d76b760",
+    "wof:geomhash":"09009735b55f885cce15bdd504f7ab54",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     75.6066,
     42.80889000000001
 ],
-  "geometry": {"coordinates":[75.6066,42.80889000000001],"type":"Point"}
+  "geometry": {"coordinates":[75.6066,42.80889],"type":"Point"}
 }

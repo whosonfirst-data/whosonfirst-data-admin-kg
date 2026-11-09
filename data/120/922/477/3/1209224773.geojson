@@ -42,7 +42,7 @@
         "wk:page":"Beshbadom"
     },
     "wof:country":"KG",
-    "wof:geomhash":"20881ab679e6a64ac86ecf4fcf7acf64",
+    "wof:geomhash":"c5fb56e2b9983ba06e9aab5dc8615542",
     "wof:hierarchy":[
         {
             "country_id":85632761,
@@ -65,5 +65,5 @@
     72.94131999999998,
     41.21711
 ],
-  "geometry": {"coordinates":[72.94131999999998,41.21711],"type":"Point"}
+  "geometry": {"coordinates":[72.94132,41.21711],"type":"Point"}
 }

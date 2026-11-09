@@ -55,7 +55,7 @@
         "wk:page":"Chirpykty"
     },
     "wof:country":"KG",
-    "wof:geomhash":"913c3d3f819dcdef7b4663ddf3206a8e",
+    "wof:geomhash":"b60b638cd8ba836977f264c7995213a1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     76.57694000000002,
     42.53449000000001
 ],
-  "geometry": {"coordinates":[76.57694000000002,42.53449000000001],"type":"Point"}
+  "geometry": {"coordinates":[76.57694,42.53449],"type":"Point"}
 }

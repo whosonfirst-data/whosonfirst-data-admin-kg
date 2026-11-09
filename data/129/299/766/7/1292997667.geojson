@@ -48,7 +48,7 @@
         "wk:page":"Shaty"
     },
     "wof:country":"KG",
-    "wof:geomhash":"224a2e6c43e0300d23a726df6379c0a1",
+    "wof:geomhash":"9fac381eb7c01b4392f3c6483f71b6c6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     78.38564000000002,
     42.786
 ],
-  "geometry": {"coordinates":[78.38564000000002,42.786],"type":"Point"}
+  "geometry": {"coordinates":[78.38564,42.786],"type":"Point"}
 }

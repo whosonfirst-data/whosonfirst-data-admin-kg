@@ -61,7 +61,7 @@
         "wk:page":"Stavropolovka"
     },
     "wof:country":"KG",
-    "wof:geomhash":"186d3cb4406c0979b1dd8855c1235af8",
+    "wof:geomhash":"c411068a0bf24243036f596a5583f612",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     73.85410999999998,
     43.01561
 ],
-  "geometry": {"coordinates":[73.85410999999998,43.01561],"type":"Point"}
+  "geometry": {"coordinates":[73.85411,43.01561],"type":"Point"}
 }

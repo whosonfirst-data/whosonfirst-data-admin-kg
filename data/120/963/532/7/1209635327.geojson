@@ -53,7 +53,7 @@
         "wk:page":"Kichibulolu"
     },
     "wof:country":"KG",
-    "wof:geomhash":"9752dc86044d63d22b2b897e2f5a7614",
+    "wof:geomhash":"fb3a264132a4872d7e800015fdf9cf55",
     "wof:hierarchy":[
         {
             "country_id":85632761,
@@ -76,5 +76,5 @@
     73.63382,
     40.19629000000001
 ],
-  "geometry": {"coordinates":[73.63382,40.19629000000001],"type":"Point"}
+  "geometry": {"coordinates":[73.63382,40.19629],"type":"Point"}
 }

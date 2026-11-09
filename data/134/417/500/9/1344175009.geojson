@@ -45,7 +45,7 @@
         "wk:page":"Bash-Karakain"
     },
     "wof:country":"KG",
-    "wof:geomhash":"d45614e03c909b1383610d793666b363",
+    "wof:geomhash":"14f3e62ed39c395a84d6ddaba4e4673e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     75.48333000000002,
     41.01667
 ],
-  "geometry": {"coordinates":[75.48333000000002,41.01667],"type":"Point"}
+  "geometry": {"coordinates":[75.48333,41.01667],"type":"Point"}
 }

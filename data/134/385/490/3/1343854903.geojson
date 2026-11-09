@@ -55,7 +55,7 @@
         "wk:page":"Salyam-Alik"
     },
     "wof:country":"KG",
-    "wof:geomhash":"d875f0aec0574f76851d052e927174ab",
+    "wof:geomhash":"f9439bf7f5864f59072967b8cab62a00",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     73.63396999999998,
     40.84268
 ],
-  "geometry": {"coordinates":[73.63396999999998,40.84268],"type":"Point"}
+  "geometry": {"coordinates":[73.63397,40.84268],"type":"Point"}
 }

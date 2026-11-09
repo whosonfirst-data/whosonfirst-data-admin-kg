@@ -57,7 +57,7 @@
         "wk:page":"Madaniyat"
     },
     "wof:country":"KG",
-    "wof:geomhash":"1d92c22071287497aba65ff972393e7c",
+    "wof:geomhash":"17d28f9e5e35b89e021266ae5a1b3da7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     72.86674000000002,
     40.59041
 ],
-  "geometry": {"coordinates":[72.86674000000002,40.59041],"type":"Point"}
+  "geometry": {"coordinates":[72.86674,40.59041],"type":"Point"}
 }

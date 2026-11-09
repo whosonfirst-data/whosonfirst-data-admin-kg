@@ -49,7 +49,7 @@
         "wk:page":"Mama-Sady"
     },
     "wof:country":"KG",
-    "wof:geomhash":"71698370be3fa3a663f3c69557679f05",
+    "wof:geomhash":"19722c685705dc3f880d7b11c3970802",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     73.05445,
     41.06554000000001
 ],
-  "geometry": {"coordinates":[73.05445,41.06554000000001],"type":"Point"}
+  "geometry": {"coordinates":[73.05445,41.06554],"type":"Point"}
 }

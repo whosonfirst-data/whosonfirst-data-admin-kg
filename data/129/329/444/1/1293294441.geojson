@@ -58,7 +58,7 @@
         "wk:page":"Kyzyl-Ata"
     },
     "wof:country":"KG",
-    "wof:geomhash":"bfb88a314ced56574e6082d598fcebf1",
+    "wof:geomhash":"a7ad31adcae29ce424e6dadf5635c838",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,5 +84,5 @@
     71.53676999999998,
     41.43123
 ],
-  "geometry": {"coordinates":[71.53676999999998,41.43123],"type":"Point"}
+  "geometry": {"coordinates":[71.53677,41.43123],"type":"Point"}
 }

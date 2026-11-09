@@ -57,7 +57,7 @@
         "wk:page":"Koy-Tash"
     },
     "wof:country":"KG",
-    "wof:geomhash":"d44d51647671e622a871f902eb0a0a0f",
+    "wof:geomhash":"799ebc1950641892e4803c9cb07ea171",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     74.66344000000002,
     42.7163
 ],
-  "geometry": {"coordinates":[74.66344000000002,42.7163],"type":"Point"}
+  "geometry": {"coordinates":[74.66344,42.7163],"type":"Point"}
 }

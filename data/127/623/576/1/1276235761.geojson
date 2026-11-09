@@ -51,7 +51,7 @@
         "wk:page":"Chigir"
     },
     "wof:country":"KG",
-    "wof:geomhash":"9ae50a70c01770047ed8cbb5a8f3e992",
+    "wof:geomhash":"1be7db1f6905f5340f203d3edc6ccb5e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     72.23765999999998,
     41.60096
 ],
-  "geometry": {"coordinates":[72.23765999999998,41.60096],"type":"Point"}
+  "geometry": {"coordinates":[72.23766,41.60096],"type":"Point"}
 }

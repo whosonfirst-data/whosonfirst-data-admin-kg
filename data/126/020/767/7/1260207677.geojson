@@ -63,7 +63,7 @@
         "wk:page":"Dostuk"
     },
     "wof:country":"KG",
-    "wof:geomhash":"66165a1e39d1c4edcf909ad4da1be4e2",
+    "wof:geomhash":"2eeb482197ac4e8ac11016181d3b0c8a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     75.63996999999998,
     41.37641
 ],
-  "geometry": {"coordinates":[75.63996999999998,41.37641],"type":"Point"}
+  "geometry": {"coordinates":[75.63997,41.37641],"type":"Point"}
 }

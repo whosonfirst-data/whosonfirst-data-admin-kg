@@ -52,7 +52,7 @@
         "wk:page":"Shadymyr"
     },
     "wof:country":"KG",
-    "wof:geomhash":"4d938708bbaf63f9e10acadc86a87b27",
+    "wof:geomhash":"901de2661af978b0ab68bca9c1e522eb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     70.35661999999999,
     39.99958
 ],
-  "geometry": {"coordinates":[70.35661999999999,39.99958],"type":"Point"}
+  "geometry": {"coordinates":[70.35662,39.99958],"type":"Point"}
 }

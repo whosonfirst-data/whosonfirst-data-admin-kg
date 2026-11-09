@@ -48,7 +48,7 @@
         "wk:page":"Kotak"
     },
     "wof:country":"KG",
-    "wof:geomhash":"d5117a50d7cea6e4f2cabf58cd0c0ed1",
+    "wof:geomhash":"8e4030beb0c9672bd0f61d644e5816f6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     70.25468000000001,
     41.54600000000001
 ],
-  "geometry": {"coordinates":[70.25468000000001,41.54600000000001],"type":"Point"}
+  "geometry": {"coordinates":[70.25468,41.546],"type":"Point"}
 }

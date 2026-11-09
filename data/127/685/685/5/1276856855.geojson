@@ -51,7 +51,7 @@
         "wk:page":"Kromkol"
     },
     "wof:country":"KG",
-    "wof:geomhash":"30aa93aa148edeb792a776b0aae6eb28",
+    "wof:geomhash":"a55668e089c2f4d01825a5f61dbe7d70",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     73.04456,
     40.32129000000001
 ],
-  "geometry": {"coordinates":[73.04456,40.32129000000001],"type":"Point"}
+  "geometry": {"coordinates":[73.04456,40.32129],"type":"Point"}
 }

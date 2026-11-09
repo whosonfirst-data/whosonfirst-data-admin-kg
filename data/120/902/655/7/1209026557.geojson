@@ -56,7 +56,7 @@
         "wk:page":"Otuz-Adyr"
     },
     "wof:country":"KG",
-    "wof:geomhash":"95e33613cf86d03f5abd04d5f37b0cef",
+    "wof:geomhash":"13775a767c930e1919bebd9c81631917",
     "wof:hierarchy":[
         {
             "country_id":85632761,
@@ -79,5 +79,5 @@
     72.96609000000002,
     40.60605
 ],
-  "geometry": {"coordinates":[72.96609000000002,40.60605],"type":"Point"}
+  "geometry": {"coordinates":[72.96609,40.60605],"type":"Point"}
 }

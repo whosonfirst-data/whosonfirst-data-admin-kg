@@ -61,7 +61,7 @@
         "wk:page":"Arkit"
     },
     "wof:country":"KG",
-    "wof:geomhash":"d997faa2c73f332a5715eefba81c75ed",
+    "wof:geomhash":"d948417c088f7b7dd9559b570435dc46",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     71.96191999999998,
     41.80927
 ],
-  "geometry": {"coordinates":[71.96191999999998,41.80927],"type":"Point"}
+  "geometry": {"coordinates":[71.96192,41.80927],"type":"Point"}
 }

@@ -52,7 +52,7 @@
         "wk:page":"Voyenno-Antonovskoye"
     },
     "wof:country":"KG",
-    "wof:geomhash":"681b3d0da3df4ad95732d8819f6a17b8",
+    "wof:geomhash":"041a786ac04381a13657c7120ead8cf4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     74.44058000000003,
     42.87378
 ],
-  "geometry": {"coordinates":[74.44058000000003,42.87378],"type":"Point"}
+  "geometry": {"coordinates":[74.44058,42.87378],"type":"Point"}
 }

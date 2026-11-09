@@ -54,7 +54,7 @@
         "wk:page":"Syn-Tash"
     },
     "wof:country":"KG",
-    "wof:geomhash":"3e73b74922d28670eca0621a7398bce9",
+    "wof:geomhash":"ea6c7844888551e5d2ea586a233ffa90",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     75.06045999999998,
     42.70305
 ],
-  "geometry": {"coordinates":[75.06045999999998,42.70305],"type":"Point"}
+  "geometry": {"coordinates":[75.06046,42.70305],"type":"Point"}
 }

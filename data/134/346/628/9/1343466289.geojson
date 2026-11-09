@@ -52,7 +52,7 @@
         "wk:page":"Kara-Kesmak"
     },
     "wof:country":"KG",
-    "wof:geomhash":"e70cca408e16d3f19cc5623cb0940851",
+    "wof:geomhash":"bea0f19a2d8a2732ac9cb6c941b09b13",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     71.18233000000002,
     41.32671
 ],
-  "geometry": {"coordinates":[71.18233000000002,41.32671],"type":"Point"}
+  "geometry": {"coordinates":[71.18233,41.32671],"type":"Point"}
 }

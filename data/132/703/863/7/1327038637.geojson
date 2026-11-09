@@ -52,7 +52,7 @@
         "wk:page":"Keget%C3%B6"
     },
     "wof:country":"KG",
-    "wof:geomhash":"210aae331f8afeed209e1ce6be8aa0f9",
+    "wof:geomhash":"b84d67a172668bde420d7a646b5c6de7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     75.17978000000002,
     42.69362
 ],
-  "geometry": {"coordinates":[75.17978000000002,42.69362],"type":"Point"}
+  "geometry": {"coordinates":[75.17978,42.69362],"type":"Point"}
 }

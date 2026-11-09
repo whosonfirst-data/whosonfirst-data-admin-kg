@@ -42,7 +42,7 @@
         "wk:page":"Dzhigdy"
     },
     "wof:country":"KG",
-    "wof:geomhash":"192e2e2d2ff17ea8872484fd60a37fcb",
+    "wof:geomhash":"5e1f7d33031c24920c1ef77dc56eed20",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     73.21670999999998,
     40.45364
 ],
-  "geometry": {"coordinates":[73.21670999999998,40.45364],"type":"Point"}
+  "geometry": {"coordinates":[73.21671,40.45364],"type":"Point"}
 }

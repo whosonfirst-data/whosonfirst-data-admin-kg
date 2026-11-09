@@ -48,7 +48,7 @@
         "wk:page":"Ak-Tuz"
     },
     "wof:country":"KG",
-    "wof:geomhash":"f45d11b9a99060ff58224da0c5253e57",
+    "wof:geomhash":"dc85a112e67e2d0fba2ea528fd8bcae1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     76.13325999999998,
     42.87955
 ],
-  "geometry": {"coordinates":[76.13325999999998,42.87955],"type":"Point"}
+  "geometry": {"coordinates":[76.13326,42.87955],"type":"Point"}
 }

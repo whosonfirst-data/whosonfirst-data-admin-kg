@@ -48,7 +48,7 @@
         "wk:page":"Aygyr-Dzhal"
     },
     "wof:country":"KG",
-    "wof:geomhash":"1e778bc4ac48b234f9883b5a60db9963",
+    "wof:geomhash":"89bbd0c2d913947851864df19060420f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     70.99049000000002,
     41.72986
 ],
-  "geometry": {"coordinates":[70.99049000000002,41.72986],"type":"Point"}
+  "geometry": {"coordinates":[70.99049,41.72986],"type":"Point"}
 }

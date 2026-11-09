@@ -52,7 +52,7 @@
         "wk:page":"Shlanauz"
     },
     "wof:country":"KG",
-    "wof:geomhash":"b1aec6b506e4ebe611d64221d28bcac1",
+    "wof:geomhash":"cc1063b3a39c5ef8ebc0d204da6a9ee5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     72.18418,
     39.91719000000001
 ],
-  "geometry": {"coordinates":[72.18418,39.91719000000001],"type":"Point"}
+  "geometry": {"coordinates":[72.18418,39.91719],"type":"Point"}
 }

@@ -50,7 +50,7 @@
         "gn:id":8142692
     },
     "wof:country":"KG",
-    "wof:geomhash":"19003edcc2636dd664781f4aa271146a",
+    "wof:geomhash":"ae3d01105bac2ce4b6278378f64c9dd5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     73.57451999999998,
     40.33337
 ],
-  "geometry": {"coordinates":[73.57451999999998,40.33337],"type":"Point"}
+  "geometry": {"coordinates":[73.57452,40.33337],"type":"Point"}
 }

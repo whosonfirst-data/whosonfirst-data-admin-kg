@@ -51,7 +51,7 @@
         "wk:page":"Mukur%2C_Kyrgyzstan"
     },
     "wof:country":"KG",
-    "wof:geomhash":"4074cf8faa8748d82d32c06967420e44",
+    "wof:geomhash":"db16c6274c85642055da51eba5c8ad9d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     71.88958000000002,
     41.61433
 ],
-  "geometry": {"coordinates":[71.88958000000002,41.61433],"type":"Point"}
+  "geometry": {"coordinates":[71.88958,41.61433],"type":"Point"}
 }

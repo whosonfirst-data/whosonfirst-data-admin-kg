@@ -54,7 +54,7 @@
         "wk:page":"Baytant"
     },
     "wof:country":"KG",
-    "wof:geomhash":"8288b6f313d1672726a8351bd85cd73a",
+    "wof:geomhash":"9fa766854bf417d81fa3aa08206816e3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     72.12496999999998,
     40.27437000000001
 ],
-  "geometry": {"coordinates":[72.12496999999998,40.27437000000001],"type":"Point"}
+  "geometry": {"coordinates":[72.12497,40.27437],"type":"Point"}
 }

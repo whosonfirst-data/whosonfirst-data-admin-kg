@@ -53,7 +53,7 @@
         "wk:page":"Taukent"
     },
     "wof:country":"KG",
-    "wof:geomhash":"12788068f7202b33e5cdcbd93632cb6d",
+    "wof:geomhash":"19d3a9b62dbbdfe99a9dab60abc66edf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     72.92858000000003,
     40.64454
 ],
-  "geometry": {"coordinates":[72.92858000000003,40.64454],"type":"Point"}
+  "geometry": {"coordinates":[72.92858,40.64454],"type":"Point"}
 }

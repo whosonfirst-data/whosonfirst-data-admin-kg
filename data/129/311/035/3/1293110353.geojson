@@ -55,7 +55,7 @@
         "wk:page":"Kulyugen"
     },
     "wof:country":"KG",
-    "wof:geomhash":"e6dd4ab5f684030f4ee21475bba07adb",
+    "wof:geomhash":"0e66b3add8c921cd8bf14e194673d2b6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     72.72336999999997,
     41.11707
 ],
-  "geometry": {"coordinates":[72.72336999999997,41.11707],"type":"Point"}
+  "geometry": {"coordinates":[72.72337,41.11707],"type":"Point"}
 }

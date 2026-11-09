@@ -55,7 +55,7 @@
         "wk:page":"K%C3%B6k-Oy"
     },
     "wof:country":"KG",
-    "wof:geomhash":"0b43ebb4c0ffcbd7762989fdd4f474fe",
+    "wof:geomhash":"5b504fcc581da3ced95634edd4773c01",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     74.42201,
     41.88294000000001
 ],
-  "geometry": {"coordinates":[74.42201,41.88294000000001],"type":"Point"}
+  "geometry": {"coordinates":[74.42201,41.88294],"type":"Point"}
 }

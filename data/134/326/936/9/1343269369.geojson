@@ -52,7 +52,7 @@
         "wk:page":"Spasskoye"
     },
     "wof:country":"KG",
-    "wof:geomhash":"ebf061b4c6e958650579a5235f867a09",
+    "wof:geomhash":"b9e085542ee3755bd830b0f4cdef8e0c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     72.98333000000002,
     41.01667
 ],
-  "geometry": {"coordinates":[72.98333000000002,41.01667],"type":"Point"}
+  "geometry": {"coordinates":[72.98333,41.01667],"type":"Point"}
 }

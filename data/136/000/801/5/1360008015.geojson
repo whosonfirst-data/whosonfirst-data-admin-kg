@@ -51,7 +51,7 @@
         "wk:page":"Kendzhilga"
     },
     "wof:country":"KG",
-    "wof:geomhash":"7a498f13241676b6343fc8394cfca525",
+    "wof:geomhash":"3ab307ef8863c120987cb8c4f4183a11",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     73.48448,
     40.38464000000001
 ],
-  "geometry": {"coordinates":[73.48448,40.38464000000001],"type":"Point"}
+  "geometry": {"coordinates":[73.48448,40.38464],"type":"Point"}
 }

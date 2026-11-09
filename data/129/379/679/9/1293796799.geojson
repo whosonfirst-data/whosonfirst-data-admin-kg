@@ -54,7 +54,7 @@
         "wk:page":"Chatkul%27"
     },
     "wof:country":"KG",
-    "wof:geomhash":"a4a1496f92e02cf137ea8ac988e76e17",
+    "wof:geomhash":"d627cfcb31ef472ca82bd493ec60bb24",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     74.34779,
     42.93982000000001
 ],
-  "geometry": {"coordinates":[74.34779,42.93982000000001],"type":"Point"}
+  "geometry": {"coordinates":[74.34779,42.93982],"type":"Point"}
 }

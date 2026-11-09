@@ -52,7 +52,7 @@
         "wk:page":"Dzhenychek"
     },
     "wof:country":"KG",
-    "wof:geomhash":"40c4b98d7c58ce47aafff261d515f978",
+    "wof:geomhash":"62299c2b60176ffcebd5458392709119",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     75.35428,
     42.81247000000001
 ],
-  "geometry": {"coordinates":[75.35428,42.81247000000001],"type":"Point"}
+  "geometry": {"coordinates":[75.35428,42.81247],"type":"Point"}
 }

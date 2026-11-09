@@ -51,7 +51,7 @@
         "wk:page":"Bash-Bulak"
     },
     "wof:country":"KG",
-    "wof:geomhash":"8e5e38b90600dc861f3e4344257dd18c",
+    "wof:geomhash":"cb3f56e47986f043029b12f28baf0102",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     72.96708000000002,
     40.51251
 ],
-  "geometry": {"coordinates":[72.96708000000002,40.51251],"type":"Point"}
+  "geometry": {"coordinates":[72.96708,40.51251],"type":"Point"}
 }

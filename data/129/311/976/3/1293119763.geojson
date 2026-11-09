@@ -57,7 +57,7 @@
         "wk:page":"Churbek"
     },
     "wof:country":"KG",
-    "wof:geomhash":"daab0fe50e6a3a7f8b459f07d0413c03",
+    "wof:geomhash":"acfc4f272eae47c091f6f8e859ccb777",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     69.90666999999999,
     39.97811
 ],
-  "geometry": {"coordinates":[69.90666999999999,39.97811],"type":"Point"}
+  "geometry": {"coordinates":[69.90667,39.97811],"type":"Point"}
 }

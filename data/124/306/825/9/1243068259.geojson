@@ -51,7 +51,7 @@
         "wk:page":"Laylysu"
     },
     "wof:country":"KG",
-    "wof:geomhash":"2500d2fc868e57d7f22e1422cf495473",
+    "wof:geomhash":"1fb67c0cec158b3490ea85957e6eb5ea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     75.5205,
     41.46769000000001
 ],
-  "geometry": {"coordinates":[75.5205,41.46769000000001],"type":"Point"}
+  "geometry": {"coordinates":[75.5205,41.46769],"type":"Point"}
 }

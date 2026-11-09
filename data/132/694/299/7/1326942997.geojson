@@ -61,7 +61,7 @@
         "wk:page":"Temen-Suu"
     },
     "wof:country":"KG",
-    "wof:geomhash":"cacba11d25c4491597cc0a9756224104",
+    "wof:geomhash":"b4657121db6dbec0e01068d715d36264",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     74.02226999999998,
     42.69698
 ],
-  "geometry": {"coordinates":[74.02226999999998,42.69698],"type":"Point"}
+  "geometry": {"coordinates":[74.02227,42.69698],"type":"Point"}
 }

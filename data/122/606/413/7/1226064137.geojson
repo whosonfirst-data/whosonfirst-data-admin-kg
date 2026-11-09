@@ -51,7 +51,7 @@
         "wk:page":"Kulundu"
     },
     "wof:country":"KG",
-    "wof:geomhash":"a22a8610e90271e549ecda7fde6c4c93",
+    "wof:geomhash":"019877cb7a7ae8e89c5b0a7ec78e493d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     69.64126999999999,
     40.10635
 ],
-  "geometry": {"coordinates":[69.64126999999999,40.10635],"type":"Point"}
+  "geometry": {"coordinates":[69.64127,40.10635],"type":"Point"}
 }

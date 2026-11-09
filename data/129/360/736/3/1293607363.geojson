@@ -45,7 +45,7 @@
         "wk:page":"Pakyr-Abad"
     },
     "wof:country":"KG",
-    "wof:geomhash":"de3efc52f816d86ac38cc64f6f3343bd",
+    "wof:geomhash":"e0c0f1fa05779f0cc8d27d3c4b5afc44",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     72.98333000000002,
     40.58333
 ],
-  "geometry": {"coordinates":[72.98333000000002,40.58333],"type":"Point"}
+  "geometry": {"coordinates":[72.98333,40.58333],"type":"Point"}
 }

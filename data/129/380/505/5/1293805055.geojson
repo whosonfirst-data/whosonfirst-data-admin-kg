@@ -51,7 +51,7 @@
         "wk:page":"Korumdy"
     },
     "wof:country":"KG",
-    "wof:geomhash":"7299d5553db7c6a3bc0c675bfffe887a",
+    "wof:geomhash":"66cc7f8ce18e05109524f207478a4d54",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     77.34926999999998,
     42.69143
 ],
-  "geometry": {"coordinates":[77.34926999999998,42.69143],"type":"Point"}
+  "geometry": {"coordinates":[77.34927,42.69143],"type":"Point"}
 }

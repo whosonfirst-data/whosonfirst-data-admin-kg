@@ -59,7 +59,7 @@
         "wk:page":"Mykan"
     },
     "wof:country":"KG",
-    "wof:geomhash":"2efb5d1540bb6a3fc6c062d8494cb9e0",
+    "wof:geomhash":"36503b00b7fe5ee1c36b3eb2d664ebbf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,5 +85,5 @@
     74.65384,
     42.93389000000001
 ],
-  "geometry": {"coordinates":[74.65384,42.93389000000001],"type":"Point"}
+  "geometry": {"coordinates":[74.65384,42.93389],"type":"Point"}
 }

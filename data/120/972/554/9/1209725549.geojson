@@ -51,7 +51,7 @@
         "wk:page":"Kichik-Alay"
     },
     "wof:country":"KG",
-    "wof:geomhash":"86d397460174adffbb2c5eca721131d2",
+    "wof:geomhash":"619c723520d80bff4e633e28c8979179",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     72.92161999999998,
     40.02492
 ],
-  "geometry": {"coordinates":[72.92161999999998,40.02492],"type":"Point"}
+  "geometry": {"coordinates":[72.92162,40.02492],"type":"Point"}
 }

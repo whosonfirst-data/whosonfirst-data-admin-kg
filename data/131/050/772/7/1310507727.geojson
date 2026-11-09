@@ -51,7 +51,7 @@
         "wk:page":"Ukok"
     },
     "wof:country":"KG",
-    "wof:geomhash":"0201281d835b56cdd53e24c292a4e0a9",
+    "wof:geomhash":"eab84c7cc8ad7e1c0a71bb7bf8e47d4a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     75.77271999999998,
     42.18123
 ],
-  "geometry": {"coordinates":[75.77271999999998,42.18123],"type":"Point"}
+  "geometry": {"coordinates":[75.77272,42.18123],"type":"Point"}
 }

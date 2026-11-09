@@ -45,7 +45,7 @@
         "wk:page":"Kyzymchek-Karakash"
     },
     "wof:country":"KG",
-    "wof:geomhash":"9a4a60601cea701c3678cc1bc2f1f223",
+    "wof:geomhash":"7ee693b415e6086d85dc2ceb214e6776",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     73.48333000000002,
     40.35
 ],
-  "geometry": {"coordinates":[73.48333000000002,40.35],"type":"Point"}
+  "geometry": {"coordinates":[73.48333,40.35],"type":"Point"}
 }

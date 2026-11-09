@@ -55,7 +55,7 @@
         "wk:page":"Mayli-Su"
     },
     "wof:country":"KG",
-    "wof:geomhash":"82d029ab174ec6412d571c914a0af4b7",
+    "wof:geomhash":"9e28dca1ea913f3d4f658840a17d5506",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     72.39775999999998,
     41.18369000000001
 ],
-  "geometry": {"coordinates":[72.39775999999998,41.18369000000001],"type":"Point"}
+  "geometry": {"coordinates":[72.39776,41.18369],"type":"Point"}
 }

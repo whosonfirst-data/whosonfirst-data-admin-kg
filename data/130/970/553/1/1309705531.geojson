@@ -52,7 +52,7 @@
         "wk:page":"Chonbulolu"
     },
     "wof:country":"KG",
-    "wof:geomhash":"f84f8c5d091edc6a318f9920dfb2c406",
+    "wof:geomhash":"9e13d2750f7d52f361228bdfdebb82e8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     73.64121,
     40.17019000000001
 ],
-  "geometry": {"coordinates":[73.64121,40.17019000000001],"type":"Point"}
+  "geometry": {"coordinates":[73.64121,40.17019],"type":"Point"}
 }

@@ -56,7 +56,7 @@
         "wk:page":"Buzhum"
     },
     "wof:country":"KG",
-    "wof:geomhash":"528b6223964db78cec84b40b92837330",
+    "wof:geomhash":"d5ddf6945cc7729c9608553c53f7c782",
     "wof:hierarchy":[
         {
             "country_id":85632761,
@@ -79,5 +79,5 @@
     70.83521999999998,
     40.00479
 ],
-  "geometry": {"coordinates":[70.83521999999998,40.00479],"type":"Point"}
+  "geometry": {"coordinates":[70.83522,40.00479],"type":"Point"}
 }

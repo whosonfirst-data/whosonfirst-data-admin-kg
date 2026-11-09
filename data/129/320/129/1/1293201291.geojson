@@ -51,7 +51,7 @@
         "wk:page":"Kara-Suu%2C_Naryn"
     },
     "wof:country":"KG",
-    "wof:geomhash":"645c7588e0763220f13579ed9419b7d6",
+    "wof:geomhash":"584edcbd89b27ea20bae3c287d4a1b0e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     75.81855999999998,
     42.19547
 ],
-  "geometry": {"coordinates":[75.81855999999998,42.19547],"type":"Point"}
+  "geometry": {"coordinates":[75.81856,42.19547],"type":"Point"}
 }

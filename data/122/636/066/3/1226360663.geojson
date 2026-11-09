@@ -45,7 +45,7 @@
         "wk:page":"Tegermach"
     },
     "wof:country":"KG",
-    "wof:geomhash":"735914074f0305d2dba3b717095f92cf",
+    "wof:geomhash":"696461a52076d0416607c45b0c71ffc5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     72.26666999999998,
     39.93333
 ],
-  "geometry": {"coordinates":[72.26666999999998,39.93333],"type":"Point"}
+  "geometry": {"coordinates":[72.26667,39.93333],"type":"Point"}
 }

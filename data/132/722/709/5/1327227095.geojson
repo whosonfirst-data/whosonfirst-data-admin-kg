@@ -45,7 +45,7 @@
         "wk:page":"Bek-Dzhar"
     },
     "wof:country":"KG",
-    "wof:geomhash":"5c35ce69112af61e4d9d024a4b9c70ed",
+    "wof:geomhash":"ac489f40a57ca324619ab725e7e647fa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     73.14388000000002,
     40.35857
 ],
-  "geometry": {"coordinates":[73.14388000000002,40.35857],"type":"Point"}
+  "geometry": {"coordinates":[73.14388,40.35857],"type":"Point"}
 }

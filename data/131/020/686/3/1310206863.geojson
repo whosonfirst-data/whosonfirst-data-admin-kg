@@ -52,7 +52,7 @@
         "wk:page":"Itsay"
     },
     "wof:country":"KG",
-    "wof:geomhash":"92946593198dd311fefeaaa891ea3670",
+    "wof:geomhash":"b90fb9dc65bfb0d98944ee3ff7cc03f0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     72.51538000000002,
     41.64122
 ],
-  "geometry": {"coordinates":[72.51538000000002,41.64122],"type":"Point"}
+  "geometry": {"coordinates":[72.51538,41.64122],"type":"Point"}
 }

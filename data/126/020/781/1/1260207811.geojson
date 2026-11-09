@@ -51,7 +51,7 @@
         "wk:page":"Kol%27tor"
     },
     "wof:country":"KG",
-    "wof:geomhash":"9cd7e9e056f40deaf6fea011ae068239",
+    "wof:geomhash":"2775b24b2e028fc33fd09364edbba384",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     75.48451999999997,
     42.3079
 ],
-  "geometry": {"coordinates":[75.48451999999997,42.3079],"type":"Point"}
+  "geometry": {"coordinates":[75.48452,42.3079],"type":"Point"}
 }

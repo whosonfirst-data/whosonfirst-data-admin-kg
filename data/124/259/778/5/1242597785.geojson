@@ -51,7 +51,7 @@
         "wk:page":"Askaly"
     },
     "wof:country":"KG",
-    "wof:geomhash":"6ed78a81e76042596fa2b35edbab823a",
+    "wof:geomhash":"2c9752e65734f3274832d7ecd6d8c238",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     73.58724000000002,
     40.08439
 ],
-  "geometry": {"coordinates":[73.58724000000002,40.08439],"type":"Point"}
+  "geometry": {"coordinates":[73.58724,40.08439],"type":"Point"}
 }

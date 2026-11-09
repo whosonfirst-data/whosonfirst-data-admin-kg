@@ -51,7 +51,7 @@
         "wk:page":"Krasnorechenskoye"
     },
     "wof:country":"KG",
-    "wof:geomhash":"90f8c6630733dca0042ba1b92a244906",
+    "wof:geomhash":"f91c6058909708b9bebb0b327e60a07e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     74.97648000000002,
     42.9014
 ],
-  "geometry": {"coordinates":[74.97648000000002,42.9014],"type":"Point"}
+  "geometry": {"coordinates":[74.97648,42.9014],"type":"Point"}
 }

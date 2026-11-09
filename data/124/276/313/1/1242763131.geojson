@@ -46,7 +46,7 @@
         "wk:page":"Kok-Karga"
     },
     "wof:country":"KG",
-    "wof:geomhash":"e6eadc328c6f8e39174b8a6d019b4d07",
+    "wof:geomhash":"8b2bb457254dc0ec2713242cba8fb998",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,5 +72,5 @@
     72.37208000000003,
     40.32172
 ],
-  "geometry": {"coordinates":[72.37208000000003,40.32172],"type":"Point"}
+  "geometry": {"coordinates":[72.37208,40.32172],"type":"Point"}
 }

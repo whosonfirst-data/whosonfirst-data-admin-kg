@@ -49,7 +49,7 @@
         "wk:page":"Uspenovka%2C_Kyrgyzstan"
     },
     "wof:country":"KG",
-    "wof:geomhash":"f6a56cb0895d5570a3bd85e07ac59dee",
+    "wof:geomhash":"71fd18b5c6a1be0ec10d89bcba9b05de",
     "wof:hierarchy":[
         {
             "country_id":85632761,
@@ -72,5 +72,5 @@
     71.81430999999998,
     41.57447
 ],
-  "geometry": {"coordinates":[71.81430999999998,41.57447],"type":"Point"}
+  "geometry": {"coordinates":[71.81431,41.57447],"type":"Point"}
 }

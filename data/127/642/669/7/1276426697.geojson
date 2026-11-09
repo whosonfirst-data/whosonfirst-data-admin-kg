@@ -49,7 +49,7 @@
         "wk:page":"Bura-Chaty"
     },
     "wof:country":"KG",
-    "wof:geomhash":"a5d70ded76ce01bf0f0208064e3679d6",
+    "wof:geomhash":"660b8cd952967899dee8784a99959323",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     74.19951999999998,
     40.35526
 ],
-  "geometry": {"coordinates":[74.19951999999998,40.35526],"type":"Point"}
+  "geometry": {"coordinates":[74.19952,40.35526],"type":"Point"}
 }

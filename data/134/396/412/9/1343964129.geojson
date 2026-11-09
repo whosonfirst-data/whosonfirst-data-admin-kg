@@ -48,7 +48,7 @@
         "wk:page":"Kyzylkurgan"
     },
     "wof:country":"KG",
-    "wof:geomhash":"6e03b2449c8d0f414d7384eabbf89cb3",
+    "wof:geomhash":"b0252cfe66b716fb0f43065556083f0f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     74.18911999999997,
     41.7273
 ],
-  "geometry": {"coordinates":[74.18911999999997,41.7273],"type":"Point"}
+  "geometry": {"coordinates":[74.18912,41.7273],"type":"Point"}
 }

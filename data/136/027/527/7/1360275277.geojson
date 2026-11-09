@@ -51,7 +51,7 @@
         "wk:page":"Beshkent"
     },
     "wof:country":"KG",
-    "wof:geomhash":"6abd9310f4f816ca9f4600ca167db308",
+    "wof:geomhash":"4d865df61f1669a8c2e75166138375c2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     69.81860999999999,
     40.03083
 ],
-  "geometry": {"coordinates":[69.81860999999999,40.03083],"type":"Point"}
+  "geometry": {"coordinates":[69.81861,40.03083],"type":"Point"}
 }
