@@ -32,8 +32,7 @@
     "wof:belongsto":[
         102191569,
         85632761,
-        85672975,
-        1091692295
+        85672975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +44,6 @@
         {
             "continent_id":102191569,
             "country_id":85632761,
-            "county_id":1091692295,
             "locality_id":1209834203,
             "region_id":85672975
         }
@@ -53,7 +51,7 @@
     "wof:id":1209834203,
     "wof:lastmodified":1566727130,
     "wof:name":"Archa-Beshkik",
-    "wof:parent_id":1091692295,
+    "wof:parent_id":85672975,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kg",
     "wof:superseded_by":[],

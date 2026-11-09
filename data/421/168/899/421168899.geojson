@@ -647,8 +647,7 @@
     "wof:belongsto":[
         102191569,
         85632761,
-        85672975,
-        1091692295
+        85672975
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -674,7 +673,6 @@
         {
             "continent_id":102191569,
             "country_id":85632761,
-            "county_id":1091692295,
             "locality_id":421168899,
             "region_id":85672975
         }
@@ -683,7 +681,7 @@
     "wof:lastmodified":1690938088,
     "wof:megacity":1,
     "wof:name":"Bishkek",
-    "wof:parent_id":1091692295,
+    "wof:parent_id":85672975,
     "wof:placetype":"locality",
     "wof:population":900000,
     "wof:population_rank":11,
