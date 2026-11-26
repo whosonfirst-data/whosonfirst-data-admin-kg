@@ -1,0 +1,74 @@
+{
+  "id": 9895032196,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.09902,41.34345,74.09902,41.34345",
+    "geom:latitude":41.34345,
+    "geom:longitude":74.09902,
+    "iso:country":"KG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13412740: name \"Karachiy\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13412740"
+        },
+        {
+            "citation":"GeoNames populated place 13412740: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13412740"
+        },
+        {
+            "citation":"GeoNames populated place 13412740: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13412740"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091690861 (Toguz-Toro), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761,
+        85672997,
+        102191569,
+        1091690861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13412740
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"3b2b282927ca47dfc20fade9b1ce6a1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690861,
+            "locality_id":9895032196,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":9895032196,
+    "wof:lastmodified":1795735160,
+    "wof:name":"Karachiy",
+    "wof:parent_id":1091690861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.09902,
+    41.34345,
+    74.09902,
+    41.34345
+],
+  "geometry": {"coordinates":[74.09902,41.34345],"type":"Point"}
+}

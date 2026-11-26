@@ -1,0 +1,74 @@
+{
+  "id": 9895032191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.7996,39.47219,71.7996,39.47219",
+    "geom:latitude":39.47219,
+    "geom:longitude":71.7996,
+    "iso:country":"KG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12547463: name \"KPP Karamyk\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12547463"
+        },
+        {
+            "citation":"GeoNames populated place 12547463: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12547463"
+        },
+        {
+            "citation":"GeoNames populated place 12547463: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12547463"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091690519 (Chon-Alai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761,
+        85673005,
+        102191569,
+        1091690519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12547463
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"e9ece1f7385c5b7847cf239bc21aefdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690519,
+            "locality_id":9895032191,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":9895032191,
+    "wof:lastmodified":1795735160,
+    "wof:name":"KPP Karamyk",
+    "wof:parent_id":1091690519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.7996,
+    39.47219,
+    71.7996,
+    39.47219
+],
+  "geometry": {"coordinates":[71.7996,39.47219],"type":"Point"}
+}

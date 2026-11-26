@@ -1,0 +1,74 @@
+{
+  "id": 9895032198,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.6125,42.21406,75.6125,42.21406",
+    "geom:latitude":42.21406,
+    "geom:longitude":75.6125,
+    "iso:country":"KG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13413564: name \"Akdzhar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13413564"
+        },
+        {
+            "citation":"GeoNames populated place 13413564: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13413564"
+        },
+        {
+            "citation":"GeoNames populated place 13413564: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13413564"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091691143 (Kochokor), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761,
+        85672987,
+        102191569,
+        1091691143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13413564
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"46f354b089bb82b2b6d8992b1a5f3993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691143,
+            "locality_id":9895032198,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":9895032198,
+    "wof:lastmodified":1795735160,
+    "wof:name":"Akdzhar",
+    "wof:parent_id":1091691143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.6125,
+    42.21406,
+    75.6125,
+    42.21406
+],
+  "geometry": {"coordinates":[75.6125,42.21406],"type":"Point"}
+}

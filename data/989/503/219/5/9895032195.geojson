@@ -1,0 +1,74 @@
+{
+  "id": 9895032195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.47076,41.09632,72.47076,41.09632",
+    "geom:latitude":41.09632,
+    "geom:longitude":72.47076,
+    "iso:country":"KG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13411934: name \"Kochkor-Ata\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13411934"
+        },
+        {
+            "citation":"GeoNames populated place 13411934: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13411934"
+        },
+        {
+            "citation":"GeoNames populated place 13411934: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13411934"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091690981 (Nooken), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761,
+        85672997,
+        102191569,
+        1091690981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13411934
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"581bb5e7345d94c4fc7f3417bf9601a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690981,
+            "locality_id":9895032195,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":9895032195,
+    "wof:lastmodified":1795735160,
+    "wof:name":"Kochkor-Ata",
+    "wof:parent_id":1091690981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.47076,
+    41.09632,
+    72.47076,
+    41.09632
+],
+  "geometry": {"coordinates":[72.47076,41.09632],"type":"Point"}
+}

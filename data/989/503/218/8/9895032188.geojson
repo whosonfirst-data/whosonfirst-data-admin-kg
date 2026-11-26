@@ -1,0 +1,74 @@
+{
+  "id": 9895032188,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.06058,40.27002,72.06058,40.27002",
+    "geom:latitude":40.27002,
+    "geom:longitude":72.06058,
+    "iso:country":"KG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 8139694: name \"Nasirabad\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/8139694"
+        },
+        {
+            "citation":"GeoNames populated place 8139694: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/8139694"
+        },
+        {
+            "citation":"GeoNames populated place 8139694: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/8139694"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091690479 (Kadamjai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761,
+        85672995,
+        102191569,
+        1091690479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139694
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"6199c834bc331cf92ed9d76a413e4418",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690479,
+            "locality_id":9895032188,
+            "region_id":85672995
+        }
+    ],
+    "wof:id":9895032188,
+    "wof:lastmodified":1795735160,
+    "wof:name":"Nasirabad",
+    "wof:parent_id":1091690479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.06058,
+    40.27002,
+    72.06058,
+    40.27002
+],
+  "geometry": {"coordinates":[72.06058,40.27002],"type":"Point"}
+}
