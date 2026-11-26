@@ -1,0 +1,74 @@
+{
+  "id": 9895032189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.63174,42.59876,71.63174,42.59876",
+    "geom:latitude":42.59876,
+    "geom:longitude":71.63174,
+    "iso:country":"KG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 8312846: name \"Kara-Buura\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/8312846"
+        },
+        {
+            "citation":"GeoNames populated place 8312846: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/8312846"
+        },
+        {
+            "citation":"GeoNames populated place 8312846: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/8312846"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091690357 (Kara-Buura), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761,
+        85673003,
+        102191569,
+        1091690357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8312846
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"2296d27ce0bdca6cf5a6f9dd280e7d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690357,
+            "locality_id":9895032189,
+            "region_id":85673003
+        }
+    ],
+    "wof:id":9895032189,
+    "wof:lastmodified":1795735160,
+    "wof:name":"Kara-Buura",
+    "wof:parent_id":1091690357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.63174,
+    42.59876,
+    71.63174,
+    42.59876
+],
+  "geometry": {"coordinates":[71.63174,42.59876],"type":"Point"}
+}

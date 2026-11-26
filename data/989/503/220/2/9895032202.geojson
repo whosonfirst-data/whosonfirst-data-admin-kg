@@ -1,0 +1,74 @@
+{
+  "id": 9895032202,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.79704,39.67563,73.79704,39.67563",
+    "geom:latitude":39.67563,
+    "geom:longitude":73.79704,
+    "iso:country":"KG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13414092: name \"Ikizyak\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13414092"
+        },
+        {
+            "citation":"GeoNames populated place 13414092: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13414092"
+        },
+        {
+            "citation":"GeoNames populated place 13414092: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13414092"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091690561 (Alai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761,
+        85673005,
+        102191569,
+        1091690561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13414092
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"ceee2357e0a718a42e3540fd5403e971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690561,
+            "locality_id":9895032202,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":9895032202,
+    "wof:lastmodified":1795735160,
+    "wof:name":"Ikizyak",
+    "wof:parent_id":1091690561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.79704,
+    39.67563,
+    73.79704,
+    39.67563
+],
+  "geometry": {"coordinates":[73.79704,39.67563],"type":"Point"}
+}

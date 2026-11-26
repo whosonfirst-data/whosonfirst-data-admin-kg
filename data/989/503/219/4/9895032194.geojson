@@ -1,0 +1,74 @@
+{
+  "id": 9895032194,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.2608,41.30535,71.2608,41.30535",
+    "geom:latitude":41.30535,
+    "geom:longitude":71.2608,
+    "iso:country":"KG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13408420: name \"Sumsar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13408420"
+        },
+        {
+            "citation":"GeoNames populated place 13408420: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13408420"
+        },
+        {
+            "citation":"GeoNames populated place 13408420: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13408420"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091690779 (Chatkal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761,
+        85672997,
+        102191569,
+        1091690779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13408420
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"d540ac99496f48cfd1dbc9ceeb4345a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690779,
+            "locality_id":9895032194,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":9895032194,
+    "wof:lastmodified":1795735160,
+    "wof:name":"Sumsar",
+    "wof:parent_id":1091690779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.2608,
+    41.30535,
+    71.2608,
+    41.30535
+],
+  "geometry": {"coordinates":[71.2608,41.30535],"type":"Point"}
+}

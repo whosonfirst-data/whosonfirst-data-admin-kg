@@ -1,0 +1,74 @@
+{
+  "id": 9895032193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.49228,39.99264,73.49228,39.99264",
+    "geom:latitude":39.99264,
+    "geom:longitude":73.49228,
+    "iso:country":"KG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13100242: name \"Kolduk\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13100242"
+        },
+        {
+            "citation":"GeoNames populated place 13100242: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13100242"
+        },
+        {
+            "citation":"GeoNames populated place 13100242: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13100242"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091690561 (Alai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761,
+        85673005,
+        102191569,
+        1091690561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13100242
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"f0284222a9e84e67f765af737213db9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690561,
+            "locality_id":9895032193,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":9895032193,
+    "wof:lastmodified":1795735160,
+    "wof:name":"Kolduk",
+    "wof:parent_id":1091690561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.49228,
+    39.99264,
+    73.49228,
+    39.99264
+],
+  "geometry": {"coordinates":[73.49228,39.99264],"type":"Point"}
+}

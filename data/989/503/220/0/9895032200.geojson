@@ -1,0 +1,74 @@
+{
+  "id": 9895032200,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.5786,41.51396,71.5786,41.51396",
+    "geom:latitude":41.51396,
+    "geom:longitude":71.5786,
+    "iso:country":"KG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13413879: name \"Ak-Tam\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13413879"
+        },
+        {
+            "citation":"GeoNames populated place 13413879: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13413879"
+        },
+        {
+            "citation":"GeoNames populated place 13413879: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13413879"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091690903 (Ala-Buka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761,
+        85672997,
+        102191569,
+        1091690903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13413879
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"00c6d0902bc031fab09796efbeee122b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690903,
+            "locality_id":9895032200,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":9895032200,
+    "wof:lastmodified":1795735160,
+    "wof:name":"Ak-Tam",
+    "wof:parent_id":1091690903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.5786,
+    41.51396,
+    71.5786,
+    41.51396
+],
+  "geometry": {"coordinates":[71.5786,41.51396],"type":"Point"}
+}

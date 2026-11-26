@@ -1,0 +1,74 @@
+{
+  "id": 9895032199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.92151,42.17959,76.92151,42.17959",
+    "geom:latitude":42.17959,
+    "geom:longitude":76.92151,
+    "iso:country":"KG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13413646: name \"Ak-Say\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13413646"
+        },
+        {
+            "citation":"GeoNames populated place 13413646: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13413646"
+        },
+        {
+            "citation":"GeoNames populated place 13413646: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13413646"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091691319 (Ton), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761,
+        85672983,
+        102191569,
+        1091691319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13413646
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"8fd877f8189379fd3bd0a8cf263a97cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691319,
+            "locality_id":9895032199,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":9895032199,
+    "wof:lastmodified":1795735160,
+    "wof:name":"Ak-Say",
+    "wof:parent_id":1091691319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.92151,
+    42.17959,
+    76.92151,
+    42.17959
+],
+  "geometry": {"coordinates":[76.92151,42.17959],"type":"Point"}
+}
